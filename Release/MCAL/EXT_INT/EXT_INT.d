@@ -1,0 +1,15 @@
+MCAL/EXT_INT/EXT_INT.o MCAL/EXT_INT/EXT_INT.o: ../MCAL/EXT_INT/EXT_INT.c \
+  ../MCAL/EXT_INT/../../STD_LIB/BIT_MATH.h \
+  ../MCAL/EXT_INT/../../STD_LIB/STD_TYPES.h \
+  ../MCAL/EXT_INT/EXT_INT_Interface.h ../MCAL/EXT_INT/EXT_INT_Registers.h \
+  ../MCAL/EXT_INT/EXT_INT_Config.h
+
+../MCAL/EXT_INT/../../STD_LIB/BIT_MATH.h:
+
+../MCAL/EXT_INT/../../STD_LIB/STD_TYPES.h:
+
+../MCAL/EXT_INT/EXT_INT_Interface.h:
+
+../MCAL/EXT_INT/EXT_INT_Registers.h:
+
+../MCAL/EXT_INT/EXT_INT_Config.h:
